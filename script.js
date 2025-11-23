@@ -227,11 +227,13 @@ function startTypewriter() {
 
 Happy Birthday Sayaang 💕
 
-SELAMAT ULANG TAHUN SAYAANG YANG KE 21 TAHUN, Sayang. Kamu adalah hadiah terindah dalam hidupku. Semoga tahun ini membawa kebahagiaan dan berkah yang tak terhingga untuk kamu sayaang, 
+SELAMAT ULANG TAHUN YANG KE-21 SAYAANG KU YANG PALING CANTIK ! 🎉🎂 Kamu adalah hadiah terbaik dan terindah bagi hidupku sayaang. Semoga tahun ini membawa kebahagiaan dan berkah
 
-dan semoga kita bisa terus merayakan hari spesial ini selamanya yaa sayaang. Maaf sayaang di hari spesial kamu ini aku belum bisa kesana semoga nanti kita bisa ngerayain ulang tahun
+yang tak terhingga untukmu sayaanag. 💖 dan semoga kita bisa terus merayakan hari spesial ini selamanya sayaang. Maaf sayaang ku di hari spesial mu ini aku belum bisa bertemu dengan kamu
 
-kamu bareng yaa sayaang ku SELAMAT ULANG TAHUN SAYAANG KU CINTAA KUU BIDADARI KU YANG PALING CANTIK YANG TAK TERHINGGA 🩵💙🩵
+dan semoga nanti kita bisa ketemu yaa sayaang kuu dan ngerayain bareng kamu sayaang Selamat ulang tahun yaa sayangku, semoga panjang umur, sehat selalu, sukses terus, dan bahagia selalu
+
+aku dah ga bisa berkata kata lagi pokonya kamu hadiah terbaik buat aku makasih udah datang di hidup aku yaa sayaang aku sayaang kamu 💕
 
 I love you so much! 💕 Sekali lagi Selamat Ulang Tahun Sayaang`;
     
@@ -328,31 +330,31 @@ function startPhotoShow() {
             image: './images/photo1.jpg'
         },
         {
-            text: 'Birthday Moment 🎂',
+            text: 'i LOVE U SO MUCH 🥺',
             image: './images/photo2.jpg'
         },
         {
-            text: 'Adventure Time 🌟',
+            text: 'MY ANGELL 🌟',
             image: './images/photo3.jpg'
         },
         {
-            text: 'Cozy Together ❤️',
+            text: 'LOVE U FOREVER ❤️',
             image: './images/photo4.jpg'
         },
         {
-            text: 'Sweet Memories 🥰',
+            text: 'Laugh Together 😂',
             image: './images/photo5.jpg'
         },
         {
-            text: 'Laugh Together 😂',
+            text: ' Beach Love',
             image: './images/photo6.jpg'
         },
         {
-            text: 'Perfect Day ☀️',
+            text: 'U So  Pretty ☀️',
             image: './images/photo7.jpg'
         },
         {
-            text: 'Love Forever 💖',
+            text: 'Photo Booth Love 💖',
             image: './images/photo8.jpg'
         }
     ];
@@ -380,7 +382,7 @@ function startPhotoShow() {
             <div class="photo-frames-container">
                 ${framesHTML}
             </div>
-            <div class="photo-strip-footer">💕 BIRTHDAY MEMORIES 💕</div>
+            <div class="photo-strip-footer">💕 YOUR BIRTHDAY 💕</div>
         </div>
         <div class="scroll-indicator">⬇ Scroll Down ⬇</div>
     `;
