@@ -227,9 +227,11 @@ function startTypewriter() {
 
 Happy Birthday Sayaang 💕
 
-Selamat Ulang Tahun sayaang ku Yang Ke 21 Tahun Semoga semua hal yang ada di hidup kamu hari ini dan seterusnya bahagia semoga sukses. Hari ini aku pengen kamu ngerasain semua hal positif dan keajaiban yang cuma bisa didapetin kalo kamu ada di dunia ini. Semoga segala keinginanmu tercapai, apalagi yang kocak-kocak dan gak biasa, karena kamu tuh unik banget! Aku selalu percaya kalau kamu bisa melewati semua tantangan dengan kekuatan dan semangat yang luar biasa.
+SELAMAT ULANG TAHUN SAYAANG YANG KE 21 TAHUN, Sayang. Kamu adalah hadiah terindah dalam hidupku. Semoga tahun ini membawa kebahagiaan dan berkah yang tak terhingga untuk kamu sayaang, 
 
-Terima kasih udah jadi bagian hidup aku yang paling berharga. Kamu bener-bener bikin hari-hari aku jadi lebih berarti dan penuh warna. Semoga di tahun yang baru ini, kamu makin bahagia, makin sukses, dan tentunya makin cantik (walaupun udah cantik dari lahir sayang!).
+dan semoga kita bisa terus merayakan hari spesial ini selamanya yaa sayaang. Maaf sayaang di hari spesial kamu ini aku belum bisa kesana semoga nanti kita bisa ngerayain ulang tahun
+
+kamu bareng yaa sayaang ku SELAMAT ULANG TAHUN SAYAANG KU CINTAA KUU BIDADARI KU YANG PALING CANTIK YANG TAK TERHINGGA 🩵💙🩵
 
 I love you so much! 💕 Sekali lagi Selamat Ulang Tahun Sayaang`;
     
